@@ -1,15 +1,15 @@
-['Shai Gilgeous-Alexander',
+1st Team: 'Shai Gilgeous-Alexander',
  'Nikola Jokic',
  'Luka Doncic',
  'Giannis Antetokounmpo',
  'Jalen Brunson', \
- 'Jayson Tatum',
+ 2nd Team: 'Jayson Tatum',
  'Anthony Edwards',
  'LeBron James',
  'Devin Booker',
  'Kevin Durant', \
- 'Anthony Davis',
+ 3rd Team: 'Anthony Davis',
  'Kawhi Leonard',
  'Rudy Gobert',
  'Domantas Sabonis',
- 'Damian Lillard']
+ 'Damian Lillard'
