@@ -2,12 +2,12 @@
  'Nikola Jokic',
  'Luka Doncic',
  'Giannis Antetokounmpo',
- 'Jalen Brunson',
+ 'Jalen Brunson', \
  'Jayson Tatum',
  'Anthony Edwards',
  'LeBron James',
  'Devin Booker',
- 'Kevin Durant',
+ 'Kevin Durant', \
  'Anthony Davis',
  'Kawhi Leonard',
  'Rudy Gobert',
