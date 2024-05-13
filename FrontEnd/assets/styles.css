@@ -1,0 +1,44 @@
+/* Global App Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f4f8;  /* Soft blue background */
+    color: #333;  /* Gray text */
+    padding: 20px;
+}
+
+/* Table Styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+th, td {
+    padding: 12px 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #6c7ae0;  /* Darker blue for headers */
+    color: #ffffff;
+}
+
+tr:nth-of-type(even) {
+    background-color: #f3f3f3;  /* Light gray for even rows */
+}
+
+tr:hover {
+    background-color: #d1d8e0;  /* Lighter blue for hover */
+}
+
+/* Responsive Design */
+@media screen and (max-width: 600px) {
+    table {
+        width: 100%;
+        display: block;
+        overflow-x: auto;
+    }
+}
